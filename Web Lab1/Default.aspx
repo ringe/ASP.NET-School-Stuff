@@ -4,7 +4,7 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-    <h2>Hva er din BMI?</h2>
+    <h2>FINN din BMI?</h2>
     <p>
        
         <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 
